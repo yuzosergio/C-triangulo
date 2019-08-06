@@ -1,0 +1,10 @@
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\bin\Debug\netcoreapp2.1\POOTriangulo.deps.json
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\bin\Debug\netcoreapp2.1\POOTriangulo.runtimeconfig.json
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\bin\Debug\netcoreapp2.1\POOTriangulo.runtimeconfig.dev.json
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\bin\Debug\netcoreapp2.1\POOTriangulo.dll
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\bin\Debug\netcoreapp2.1\POOTriangulo.pdb
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\obj\Debug\netcoreapp2.1\POOTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\obj\Debug\netcoreapp2.1\POOTriangulo.AssemblyInfoInputs.cache
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\obj\Debug\netcoreapp2.1\POOTriangulo.AssemblyInfo.cs
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\obj\Debug\netcoreapp2.1\POOTriangulo.dll
+C:\Users\yuzos\Documents\curso C#\POOTriangulo\POOTriangulo\obj\Debug\netcoreapp2.1\POOTriangulo.pdb
